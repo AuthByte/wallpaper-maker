@@ -1,3 +1,3 @@
 # wallpaper-maker
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/AuthByte/wallpaper-maker)
+Wallpaper maker using fal.ai
